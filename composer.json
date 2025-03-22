@@ -1,0 +1,13 @@
+{
+    "name": "cache-interop/project",
+    "description": "The cache-interop project.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul M. Jones",
+            "email": "pmjones@pmjones.io"
+        }
+    ],
+    "require": {}
+}
